@@ -3,7 +3,7 @@ name:  My first workflow
 
 #Evento
 on:  
-  workflow_dispatch:
+  push:
 
 #Jobs
 jobs:
